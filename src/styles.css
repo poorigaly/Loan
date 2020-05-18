@@ -7,7 +7,7 @@ body {
 
 .jumbotron {
   padding: 20px 2rem 27px;
-  background: #E91E63;
+  background: #88e91e;
   margin: 0 auto 25px;
   border-radius: 0;
 }
@@ -15,7 +15,7 @@ body {
 .h1,
 h1 {
   font-size: 25px;
-  color: #fde4ed;
+  color: #f8f9fa;
   font-weight: 300;
   margin: 0;
 }
@@ -210,9 +210,9 @@ label {
 
 .btn-danger,
 body .btn-danger:hover {
-  background: #312BC6;
-  border-color: #312BC6;
-  color: #4EABE6;
+  background: #4ac62b;
+  border-color: #f8f9fa;
+  color: #f8f9fa;
 }
 
 .subjectList {
