@@ -55,12 +55,12 @@ label {
 
 .form-control:focus,
 .custom-select:focus {
-  border: 1px solid #0C1CFF;
+  border: 1px solid #51c62b;
 }
 
 .btn-success,
 .btn-success:hover {
-  color: #312BC6;
+  color: #51c62b;
   border-color: #00FC79;
   background-color: #00FC79;
 }
@@ -182,7 +182,7 @@ label {
   font-weight: 400;
   color: #222222;
   background-color: #FDFDFD;
-  border: 1px solid #312BC6;
+  border: 1px solid #51c62b;
 }
 
 .custom-control-input:checked~.custom-control-label::before {
